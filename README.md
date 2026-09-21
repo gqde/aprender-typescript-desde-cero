@@ -4566,6 +4566,5 @@ Con esto queda terminada la estructura completa:
 
 sin mezclar React, Node.js, Next.js, NestJS, bases de datos, Docker, Kubernetes, cloud u otras tecnologías que tendrán posteriormente sus propios programas independientes.
 
-Con esto ya puedes unir directamente **Módulos 1–30 + 31–50** y tener el `README.md` maestro completo del currículo de **5,000 temas de TypeScript**.
-
+ 
 [1]: https://www.typescriptlang.org/docs/handbook/project-references?utm_source=chatgpt.com "TypeScript: Documentation - Project References"
